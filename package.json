@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/JaiderMateo/cyf-ecommerce-api#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
   }
 }
